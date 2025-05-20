@@ -37,4 +37,4 @@ This repository contains the data and code used to track fly locomotion for the 
 You can download the dataset by:  
 1. Cloning this repository:  
    ```bash
-   git clone https://github.com/Tiffany9583/OpenCV-for-functional-response-research.git
+   git clone https://github.com/Tiffany9583/Nutrient-microbiome-interactions-on-Drosophila.git
