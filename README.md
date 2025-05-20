@@ -5,7 +5,7 @@ This repository contains the data and code used to track fly locomotion for the 
 ## 📂 Data Description for Drosophila-related Experiment Dataset
 - **Source:** The phenotypic observations and bacterial load data were collected by Yi-Ting Hung at the University of Florida during 2023–2024. 
 - **File Format:** CSV
-- **Size:**  128 KB 
+- **Size:**  101 KB 
 - **Number of Records:** [1081 rows, 18 columns]  
 
 ## 📊 Data Structure
